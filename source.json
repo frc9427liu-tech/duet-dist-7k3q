@@ -12,6 +12,14 @@
       "tintColor": "#3478F6",
       "versions": [
         {
+          "version": "6.11.0",
+          "date": "2026-11-23",
+          "minOSVersion": "16.0",
+          "size": 1239988,
+          "downloadURL": "https://github.com/frc9427liu-tech/duet-dist-7k3q/releases/download/v6.11.0/DuetLink.ipa",
+          "localizedDescription": "6.11.0 新增模組商店:自己挑要顯示的功能"
+        },
+        {
           "version": "6.10.2",
           "date": "2026-11-23",
           "minOSVersion": "16.0",
