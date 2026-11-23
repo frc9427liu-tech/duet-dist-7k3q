@@ -12,6 +12,14 @@
       "tintColor": "#3478F6",
       "versions": [
         {
+          "version": "6.10.1",
+          "date": "2026-11-23",
+          "minOSVersion": "16.0",
+          "size": 1223530,
+          "downloadURL": "https://github.com/frc9427liu-tech/duet-dist-7k3q/releases/download/v6.10.1/DuetLink.ipa",
+          "localizedDescription": "6.10.1 首頁與智慧家頁直接看得到「小助手」和新手教學入口"
+        },
+        {
           "version": "6.10.0",
           "date": "2026-11-23",
           "minOSVersion": "16.0",
