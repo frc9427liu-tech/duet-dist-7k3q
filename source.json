@@ -12,6 +12,14 @@
       "tintColor": "#3478F6",
       "versions": [
         {
+          "version": "6.9.1",
+          "date": "2026-11-23",
+          "minOSVersion": "16.0",
+          "size": 1185742,
+          "downloadURL": "https://github.com/frc9427liu-tech/duet-dist-7k3q/releases/download/v6.9.1/DuetLink.ipa",
+          "localizedDescription": "6.9.1 電腦互控與新增裝置精靈(藍牙喇叭切換輸出)"
+        },
+        {
           "version": "6.9.0",
           "date": "2026-11-23",
           "minOSVersion": "16.0",
