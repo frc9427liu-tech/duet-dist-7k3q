@@ -12,6 +12,14 @@
       "tintColor": "#3478F6",
       "versions": [
         {
+          "version": "6.10.0",
+          "date": "2026-11-23",
+          "minOSVersion": "16.0",
+          "size": 1217224,
+          "downloadURL": "https://github.com/frc9427liu-tech/duet-dist-7k3q/releases/download/v6.10.0/DuetLink.ipa",
+          "localizedDescription": "6.10.0 新增「卡住了?問小助手」(常見問題+選用 AI)"
+        },
+        {
           "version": "6.9.2",
           "date": "2026-11-23",
           "minOSVersion": "16.0",
