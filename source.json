@@ -12,6 +12,14 @@
       "tintColor": "#3478F6",
       "versions": [
         {
+          "version": "6.19.0",
+          "date": "2026-11-25",
+          "size": 1300866,
+          "downloadURL": "https://github.com/frc9427liu-tech/duet-dist-7k3q/releases/download/v6.19.0/DuetLink.ipa",
+          "localizedDescription": "6.19.0 新增「手寫筆記」:像真的筆記本(空白/橫線/小方格/點陣),支援 iPad 觸控筆筆壓、手掌放著不會亂畫;筆記存在電腦",
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "6.18.3",
           "date": "2026-11-25",
           "size": 1300588,
